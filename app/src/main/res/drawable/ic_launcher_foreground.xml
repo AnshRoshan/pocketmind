@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Brain/head silhouette -->
+    <group android:scaleX="0.5" android:scaleY="0.5" android:pivotX="54" android:pivotY="54">
+        <path
+            android:fillColor="#7C6FF0"
+            android:pathData="M54,20 C38,20 26,31 26,45 C26,52 29,58 34,62 L34,74 C34,78 37,81 41,81 L45,81 L45,88 L63,88 L63,81 L67,81 C71,81 74,78 74,74 L74,62 C79,58 82,52 82,45 C82,31 70,20 54,20 Z" />
+        <!-- Neural sparks -->
+        <path
+            android:fillColor="#EDEBFF"
+            android:pathData="M44,42 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+        <path
+            android:fillColor="#EDEBFF"
+            android:pathData="M64,42 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+        <path
+            android:fillColor="#EDEBFF"
+            android:pathData="M54,56 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+        <path
+            android:strokeColor="#EDEBFF"
+            android:strokeWidth="2"
+            android:fillColor="#00000000"
+            android:pathData="M47,43 L51,55 M61,43 L57,55 M47,42 L61,42" />
+    </group>
+</vector>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocketmind</string>
+    <string name="app_tagline">Your phone is the server. Your AI never sleeps.</string>
+
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_label">Pocketmind Assistant</string>
+    <string name="accessibility_description">Allows Pocketmind to automate tasks on your phone — opening apps, sending messages, and more — when you ask it to.</string>
+
+    <!-- Notification Listener -->
+    <string name="notification_listener_label">Pocketmind Notifications</string>
+    <string name="notification_listener_description">Allows Pocketmind to read your notifications so it can summarize what you missed and reply on your behalf.</string>
+
+    <!-- Service -->
+    <string name="service_notification_title">Pocketmind is active</string>
+    <string name="service_notification_text">Your on-device AI assistant is running</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to Pocketmind</string>
+    <string name="onboarding_model_title">Choose Your AI Model</string>
+    <string name="onboarding_permissions_title">Grant Permissions</string>
+    <string name="onboarding_telegram_title">Telegram Remote Control</string>
+
+    <!-- Chat -->
+    <string name="chat_input_hint">Ask or command anything…</string>
+    <string name="chat_empty_state">What would you like me to do?</string>
+
+    <!-- Models -->
+    <string name="models_title">AI Models</string>
+    <string name="models_subtitle">On-device, no internet required</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_cloud_keys">Cloud API Keys</string>
+    <string name="settings_telegram">Telegram Remote Control</string>
+</resources>

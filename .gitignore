@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android
+captures/
+*.apk
+*.aab
+
+# Scratch files from the generation workflow
+*.log
+
+# Build outputs
+app/build/
+core/build/
+data/build/
+engine/build/
+cloud/build/
+telegram/build/
+
+# Native build cache
+.cxx/
+
+# Video-agent plugin cache
+.video_agent/
